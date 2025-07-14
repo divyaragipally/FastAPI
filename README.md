@@ -6,4 +6,5 @@ It supports addition, subtraction, multiplication, and division using different 
 ## Run Locally
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
